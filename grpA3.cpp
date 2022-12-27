@@ -105,7 +105,7 @@ int main () {
                };
                break;
             case 4:
-               for(int i = 0; i<book_count; i++){
+               for(int i = 0; i<tape_count; i++){
                 t[i].display_tape();
                };
                break;
